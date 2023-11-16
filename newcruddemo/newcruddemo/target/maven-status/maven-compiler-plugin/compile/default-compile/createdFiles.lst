@@ -1,0 +1,14 @@
+com\example\newcruddemo\Exception\ResourceNotFoundException.class
+com\example\newcruddemo\Model\UserEntity.class
+com\example\newcruddemo\Model\MaritalStatusEntity.class
+com\example\newcruddemo\Model\ProjectEntity.class
+com\example\newcruddemo\Model\EducationEntity.class
+com\example\newcruddemo\Repository\EducationRepo.class
+com\example\newcruddemo\Service\UserService.class
+com\example\newcruddemo\Repository\ProjectRepo.class
+com\example\newcruddemo\Controller\UserController.class
+com\example\newcruddemo\NewcruddemoApplication.class
+com\example\newcruddemo\Repository\UserRepo.class
+com\example\newcruddemo\ServiceImpl\UserServiceImpl.class
+com\example\newcruddemo\Dto\UserDto.class
+com\example\newcruddemo\Repository\MaritalRepo.class
